@@ -1,7 +1,5 @@
 # Industrial
 
-[[_TOC_]]
-
 ## Vorwort
 
 Dies ist der Versuch, ein Musikgenre, das fast jeder anders definiert
@@ -59,16 +57,19 @@ Die weitere Entwicklung ab den frühen 1980er Jahren wird unter der Bezeichnung
 
 ## Post-Industrial
 
-- **Esplendor Geométrico** → [Disco Rojo](https://www.youtube.com/watch?v=08sdmVNFIj4),
+- **Esplendor Geométrico** →
+  [Disco Rojo](https://www.youtube.com/watch?v=08sdmVNFIj4),
   [Comisario de la luz V](https://www.youtube.com/watch?v=3zRwfauBb1c),
   [Sinaya](https://www.youtube.com/watch?v=TQx7wazGEpM)
-- **Einstürzende Neubauten** → [Haus der Lüge](https://www.youtube.com/watch?v=sqV-kHTPFzM),
+- **Einstürzende Neubauten** →
+  [Haus der Lüge](https://www.youtube.com/watch?v=sqV-kHTPFzM),
   [Yü Gung (Fütter mein Ego)](https://www.youtube.com/watch?v=JYhgqFBs19w)
-- **Laibach** → [Krst Pod Triglavom](https://www.youtube.com/watch?v=Y3IJvCu7mSA),
+- **Laibach** →
+  [Krst Pod Triglavom](https://www.youtube.com/watch?v=Y3IJvCu7mSA),
   [Nova Akropola](https://www.youtube.com/watch?v=WsqiVE6ch20),
-  [Opus Dei](https://www.youtube.com/watch?v=LB9lObWclFQ) (Original: „Live Is
-Life“ von **Opus**)
-- **Hunting Lodge** → [Banishing Dirge](https://www.youtube.com/watch?v=EL7zA1lE18c),
+  [Opus Dei](https://www.youtube.com/watch?v=LB9lObWclFQ) (Original: „Live Is Life“ von **Opus**)
+- **Hunting Lodge** →
+  [Banishing Dirge](https://www.youtube.com/watch?v=EL7zA1lE18c),
   [Will](https://www.youtube.com/watch?v=3BFk8IkJHm0)
 
 ----
@@ -79,29 +80,37 @@ Mit der Zeit bildeten sich die folgenden Subgenres heraus:
 
 > verzerrter Schreigesang über druckvollen, monotonen Lärmkulissen
 
-- **Whitehouse** → [Torture Chamber](https://www.youtube.com/watch?v=lVtWcQOWWmE),
+- **Whitehouse** →
+  [Torture Chamber](https://www.youtube.com/watch?v=lVtWcQOWWmE),
   [Why You Never Became a Dancer](https://www.youtube.com/watch?v=EGNKgah948s)
-- **Slogun** → [The Pleasures of Death (full album)](https://www.youtube.com/watch?v=lbL30MOIepg)
-- **Haus Arafna** → [Last Dream of Jesus](https://www.youtube.com/watch?v=lX6d6Y7XRyY),
+- **Slogun** →
+  [The Pleasures of Death (full album)](https://www.youtube.com/watch?v=lbL30MOIepg)
+- **Haus Arafna** →
+  [Last Dream of Jesus](https://www.youtube.com/watch?v=lX6d6Y7XRyY),
   [Electronic Terrorism](https://www.youtube.com/watch?v=xmqofUg4bOI)
-- **Thorofon** → [Riotdictator](https://www.youtube.com/watch?v=lUZRzU0L304)
+- **Thorofon** →
+  [Riotdictator](https://www.youtube.com/watch?v=lUZRzU0L304)
 
 ### Dark Ambient
 
 > entwickelte sich zunächst parallel zum bekannten Ambient-Genre und wurde
 > später auch wiederum davon beeinflusst.
 
-- **Deutsch Nepal** → [Deflagration of Hell](https://www.youtube.com/watch?v=IAJwpwtzt48),
+- **Deutsch Nepal** →
+  [Deflagration of Hell](https://www.youtube.com/watch?v=IAJwpwtzt48),
   [Nonexistance](https://www.youtube.com/watch?v=HeQsJkCiZas),
   [Amygdala](https://www.youtube.com/watch?v=dbM6ofYWeVg)
-- **Illusion of Safety** → [Third Rail](https://www.youtube.com/watch?v=rMx8IP8pTrk), 
+- **Illusion of Safety** →
+  [Third Rail](https://www.youtube.com/watch?v=rMx8IP8pTrk), 
   [Cracks Appear](https://www.youtube.com/watch?v=RcUiuVj4gno),
   [Experience](https://www.youtube.com/watch?v=_OaizQKys0Y)
-- **Lustmord** → [Metavoid (full album)](https://www.youtube.com/watch?v=89QnV8KLBOk), 
+- **Lustmord** →
   [verschiedene Releases auf Bandcamp](https://lustmord.bandcamp.com/)
-- **raison d’être** → [Disintegrates From Within](https://www.youtube.com/watch?v=FHbY9JWzKMg),
+- **raison d’être** →
+  [Disintegrates From Within](https://www.youtube.com/watch?v=FHbY9JWzKMg),
   [Procession](https://www.youtube.com/watch?v=5vTTMAcdLGE)
-- **:zoviet\*france:** → [I Felt the Breath of My Assassin](https://www.youtube.com/watch?v=q6XIXmoSYHM)
+- **:zoviet\*france:** →
+  [I Felt the Breath of My Assassin](https://www.youtube.com/watch?v=q6XIXmoSYHM)
 
 ### Ritual
 
