@@ -366,6 +366,10 @@ die Musik von u.a.:
   [Sirenen der Erinnerung (Die Welt erfriert)](https://www.youtube.com/watch?v=E7bUmMCV79I),
   [Funkenflug](https://www.youtube.com/watch?v=ZBx_JmOwiAw),
   [verschiedene Releases auf Bandcamp](https://phasenmensch.bandcamp.com/)
+- **Schuster** →
+  [Die](https://www.youtube.com/watch?v=7O2v4YZ7bAs),
+  [Drown](https://www.youtube.com/watch?v=_h3RrTVBqQI),
+  [Fear (live @ Route 66 Düsseldorf, 2019-10-26)](https://www.youtube.com/watch?v=yjhueCyPTIk)
 
 ## Verwendung von Industrial-Elementen
 
