@@ -1,5 +1,9 @@
 # Industrial
 
+[[_TOC_]]
+
+## Vorwort
+
 Dies ist der Versuch, ein Musikgenre, das fast jeder anders definiert
 und welches in sich in keiner Weise kohärent ist, grob zu umreißen. Die
 verschiedenen Richtungen überschneiden sich zum Teil und haben fließende
@@ -9,16 +13,6 @@ Verbindende Elemente der meisten Projekte in diesem Genre sind der
 Do-It-Yourself-Gedanke und die Experimentierfreudigkeit. Auch wenn es an
 der Musik selbst nicht unbedingt erkennbar ist, so kamen die beteiligten
 Künstler in vielen Fällen vom Punk.
-
-Vorläufer und Einfluss waren und sind u.a. **Suicide** (Alan Vega &
-Martin Rev) → [Rocket USA](https://www.youtube.com/watch?v=5z7K-oUpYLs),
-[Frankie Teardrop](https://www.youtube.com/watch?v=8_dXp0eF8s0),
-[Ghost Rider](https://www.youtube.com/watch?v=Dn7SBQ6X5HU).
-
-Verschiedene andere Gruppen wie Cabaret Voltaire (hier mit
-[Nag Nag Nag](https://vimeo.com/37894390)) begannen ebenfalls, mit den
-Möglichkeiten der elektronischen Klangerzeugung zu experimentieren, und
-schufen so Hörerlebnisse bisher völlig ungewohnter Art.
 
 ----
 
@@ -35,12 +29,22 @@ schufen so Hörerlebnisse bisher völlig ungewohnter Art.
 
 ## Die Anfänge
 
-Die Ursprung des Genres wird **Throbbing Gristle** (1975—1981)
+Vorläufer und Einfluss waren und sind u.a. **Suicide** (Alan Vega &
+Martin Rev) → [Rocket USA](https://www.youtube.com/watch?v=5z7K-oUpYLs),
+[Frankie Teardrop](https://www.youtube.com/watch?v=8_dXp0eF8s0),
+[Ghost Rider](https://www.youtube.com/watch?v=Dn7SBQ6X5HU).
+
+Verschiedene andere Gruppen wie Cabaret Voltaire (hier mit
+[Nag Nag Nag](https://vimeo.com/37894390)) begannen ebenfalls, mit den
+Möglichkeiten der elektronischen Klangerzeugung zu experimentieren, und
+schufen so Hörerlebnisse bisher völlig ungewohnter Art.
+
+Die Ursprung des Genres wird allgemein **Throbbing Gristle** (1975—1981)
 zugerechnet (→ [United](https://www.youtube.com/watch?v=5XpqCxJZdGs),
 [Discipline](https://www.youtube.com/watch?v=Y8klW9trVTQ),
 [Tesco Disco](https://www.youtube.com/watch?v=La6s228vk34)).  
 Weitere nennenswerte Künstler sind **Monte Cazazza**
-(→ [To Mom on Mother’s Day](https://www.youtube.com/watch?v=7lgc9AyLtyg),
+(→ [To Mom on Mother’s Day](https://www.youtube.com/watch?v=GqHq1h1NIe4),
 [Kick That Habit Man](https://www.youtube.com/watch?v=z7D8d7tUkbc),
 [A Is for Atom](https://www.youtube.com/watch?v=zXJceQeL_zc))
 und die weiter unten erwähnten **SPK**.
@@ -59,7 +63,7 @@ Die weitere Entwicklung ab den frühen 1980er Jahren wird unter der Bezeichnung
   [Comisario de la luz V](https://www.youtube.com/watch?v=3zRwfauBb1c),
   [Sinaya](https://www.youtube.com/watch?v=TQx7wazGEpM)
 - **Einstürzende Neubauten** → [Haus der Lüge](https://www.youtube.com/watch?v=sqV-kHTPFzM),
-  [Yü Gung (Fütter mein Ego)](https://www.youtube.com/watch?v=bpiKZOUK0RM)
+  [Yü Gung (Fütter mein Ego)](https://www.youtube.com/watch?v=JYhgqFBs19w)
 - **Laibach** → [Krst Pod Triglavom](https://www.youtube.com/watch?v=Y3IJvCu7mSA),
   [Nova Akropola](https://www.youtube.com/watch?v=WsqiVE6ch20),
   [Opus Dei](https://www.youtube.com/watch?v=LB9lObWclFQ) (Original: „Live Is
@@ -82,7 +86,7 @@ Mit der Zeit bildeten sich die folgenden Subgenres heraus:
   [Electronic Terrorism](https://www.youtube.com/watch?v=xmqofUg4bOI)
 - **Thorofon** → [Riotdictator](https://www.youtube.com/watch?v=lUZRzU0L304)
 
-## Dark Ambient
+### Dark Ambient
 
 > entwickelte sich zunächst parallel zum bekannten Ambient-Genre und wurde
 > später auch wiederum davon beeinflusst.
@@ -99,7 +103,7 @@ Mit der Zeit bildeten sich die folgenden Subgenres heraus:
   [Procession](https://www.youtube.com/watch?v=5vTTMAcdLGE)
 - **:zoviet\*france:** → [I Felt the Breath of My Assassin](https://www.youtube.com/watch?v=q6XIXmoSYHM)
 
-## Ritual
+### Ritual
 
 > meist ruhige Industrial-Variante, die im Besonderen
 > durch repetitive Kompositionen, Rückgriffe auf ethnomusikalische
@@ -306,7 +310,7 @@ die Musik von u.a.:
   *Soloprojekt von Richard Donhauser*  
   → [Harsch-Sequence](https://www.youtube.com/watch?v=FfVhvNMqEE4)
 
-## Japanoise
+### Japanoise
 
 > Extremere Noise-Variante aus Japan, die fast vollständig aus abstraktem
 > Lärm besteht.
@@ -332,7 +336,7 @@ die Musik von u.a.:
 - **C.C.C.C.** →
   [Live-Auftritt im italienischen Fernsehen (1997)](https://www.youtube.com/watch?v=bs3GcoZ-ecs)
 
-# Bands aus Düsseldorf
+## Bands aus Düsseldorf
 
 - **100blumen**  
   *Start als Einmannprojekt, inzwischen zu einem Quartett mit einem Bassisten,
