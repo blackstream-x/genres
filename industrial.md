@@ -158,19 +158,18 @@ gestoßen.
 
 > Kennzeichen sind Militärtrommeln, Filmmusik- und Orchestralsamples
 
-  - **In The Nursery** →
-    [Blue Religion](https://www.youtube.com/watch?v=NhnBGpw2hnQ),
-    [Hymn Noir](https://www.youtube.com/watch?v=C3M-kpY3DRI),
-    [New Religion](https://www.youtube.com/watch?v=syno9R1nFFg)
-
-  - **Blood Axis**  
-    *Coverversionen hat er drauf, allerdings ist der Typ politisch
-    äußerst fragwürdig*  
-    → [Lord of Ages](https://www.youtube.com/watch?v=SJ89377-k8o)
-    (Musik: **Terry Tucker** "Overture to the Sun" / Text: **Rudyard
-    Kipling** "A Song to Mithras"),
-    [The Hangman and the Papist](https://www.youtube.com/watch?v=50NFXuOi3Tg)
-    (original von **Strawbs**)
+- **In The Nursery** →
+  [Blue Religion](https://www.youtube.com/watch?v=NhnBGpw2hnQ),
+  [Hymn Noir](https://www.youtube.com/watch?v=C3M-kpY3DRI),
+  [New Religion](https://www.youtube.com/watch?v=syno9R1nFFg)
+- **Blood Axis**  
+  *Coverversionen hat er drauf, allerdings ist der Typ politisch
+  äußerst fragwürdig*  
+  → [Lord of Ages](https://www.youtube.com/watch?v=SJ89377-k8o)
+  (Musik: **Terry Tucker** "Overture to the Sun" / Text: **Rudyard
+  Kipling** "A Song to Mithras"),
+  [The Hangman and the Papist](https://www.youtube.com/watch?v=50NFXuOi3Tg)
+  (original von **Strawbs**)
 
 ## Weitere Entwicklungen
 
@@ -208,11 +207,11 @@ gestoßen.
   [Error](https://www.youtube.com/watch?v=ujvKCby6CW4),
   [Butcher](https://www.youtube.com/watch?v=8LliHuFnZOI),
   [Monster](https://www.youtube.com/watch?v=AX-P7BNAt8g)
-  - **Imminent Starvation** →
+- **Imminent Starvation** →
   [Lost Highway 72](https://www.youtube.com/watch?v=pLGh7Ef2pck),
   [Dislocation 2 & 3](https://www.youtube.com/watch?v=4gwc9cyNd6Y),
   [Tentack One](https://www.youtube.com/watch?v=h-r6TOxxtSU)
-  - **Sonar** →
+- **Sonar** →
   [Head Down](https://www.youtube.com/watch?v=0SmeG514ywQ),
   [Cosmic Rays](https://www.youtube.com/watch?v=JTIzAv2tBVc),
   [Shotgun Radio](https://www.youtube.com/watch?v=MJWtMvl_-FA)
@@ -220,10 +219,10 @@ gestoßen.
   [Global Warming](https://www.youtube.com/watch?v=FEOVjXbSXOc),
   [Tropical Timber Trade](https://www.youtube.com/watch?v=ggObjVux-t4),
   [Ban Depleted Uranium Weapons (Poison Dust)](https://www.youtube.com/watch?v=pRwnj7cIIaw)
-  - **P•A•L** →
+- **P•A•L** →
   [Gelöbnis](https://www.youtube.com/watch?v=VbujwV4bDpM),
   [Shiftwork (Activist Movement mix)](https://www.youtube.com/watch?v=NowxxpTvUbg)
-  - **Marita Schreck** →
+- **Marita Schreck** →
   [Full Metal Jacket](https://www.youtube.com/watch?v=WjjAhiNnG1U)
   (enthält wie mehrere andere Lieder des Debütalbums "Schlagwerkorgien"
   Samples aus der deutschen Synchronisation des gleichnamigen Films),
@@ -311,8 +310,6 @@ die Musik von u.a.:
 
 > Extremere Noise-Variante aus Japan, die fast vollständig aus abstraktem
 > Lärm besteht.
-
-</div>
 
 - **Masonna** →
   [Anne (Part 1 & 2)](https://www.youtube.com/watch?v=fxHINhUAt8s),
