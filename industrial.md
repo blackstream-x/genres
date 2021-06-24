@@ -158,8 +158,7 @@ gestoßen.
   [Final Pulse](https://www.youtube.com/watch?v=Wfm_B7ybfww)
 - **Atrax Morgue** →
   [Process of Death](https://www.youtube.com/watch?v=ay6VnapRyOU),
-  [Something Bad](https://www.youtube.com/watch?v=vNZR1ZhzsmM),
-  [Final Day](https://www.youtube.com/watch?v=IBAslFH-7Zs)
+  [Give Me a Corpse](https://www.youtube.com/watch?v=6KoKxd569aI)
 - **Brighter Death Now** →
   [No Pain](https://www.youtube.com/watch?v=3jSYSodugeM),
   [Payday](https://www.youtube.com/watch?v=-xHluiNh1_4),
@@ -176,13 +175,10 @@ gestoßen.
   [Hymn Noir](https://www.youtube.com/watch?v=C3M-kpY3DRI),
   [New Religion](https://www.youtube.com/watch?v=syno9R1nFFg)
 - **Blood Axis**  
-  *Coverversionen hat er drauf, allerdings ist der Typ politisch
-  äußerst fragwürdig*  
+  *Coverversionen kann er, allerdings ist der Typ politisch äußerst fragwürdig*  
   → [Lord of Ages](https://www.youtube.com/watch?v=SJ89377-k8o)
-  (Musik: **Terry Tucker** "Overture to the Sun" / Text: **Rudyard
-  Kipling** "A Song to Mithras"),
-  [The Hangman and the Papist](https://www.youtube.com/watch?v=50NFXuOi3Tg)
-  (original von **Strawbs**)
+  (Musik: **Terry Tucker** „Overture to the Sun“ / Text: **Rudyard Kipling** „A Song to Mithras“),
+  [The Hangman and the Papist](https://www.youtube.com/watch?v=50NFXuOi3Tg) (original von **Strawbs**)
 
 ## Weitere Entwicklungen
 
