@@ -204,7 +204,7 @@ gestoßen.
   [March of the Pigs](https://vimeo.com/3554852),
   [Wish](https://www.youtube.com/watch?v=kuoFiIFkdAA)
 - **Die Krupps** (in den 90ern) →
-  [To the Hilt](https://www.youtube.com/watch?v=WHKMH0aJUkU)
+  [To the Hilt](https://www.youtube.com/watch?v=QLVpyPCEjxU)
 
 ### Rhythm ’n’ Noise
 
