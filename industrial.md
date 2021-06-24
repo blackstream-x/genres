@@ -2,12 +2,14 @@
 
 ## Vorwort
 
-Dies ist der Versuch, ein Musikgenre, das fast jeder anders definiert
-und welches in sich in keiner Weise kohärent ist, grob zu umreißen. Die
-verschiedenen Richtungen überschneiden sich zum Teil und haben fließende
-Übergänge, die Einteilung ist daher manchmal etwas willkürlich.
+Dies ist der Versuch, eine Musikrichtung, die fast jeder unterschiedlich definiert
+und die weder klar begrenzt noch in sich selbst kohärent ist, grob zu umreißen.
+Die hier erwähnten Subgenres überschneiden sich zum Teil und haben untereinander
+fließende Übergänge. Die Einteilung ist daher zwar um eine gewisse Objektivität
+bemüht, aber immer noch willkürlich.
+Ebenso ist die Auswahl der Künstler in dieser Zusammenstellung rein subjektiv.
 
-Verbindende Elemente der meisten Projekte in diesem Genre sind der
+Verbindende Elemente der meisten hier genannten Projekte sind der
 Do-It-Yourself-Gedanke und die Experimentierfreudigkeit. Auch wenn es an
 der Musik selbst nicht unbedingt erkennbar ist, so kamen die beteiligten
 Künstler in vielen Fällen vom Punk.
@@ -189,12 +191,11 @@ gestoßen.
 
 - **My Life With the Thrill Kill Kult** →
   [The Days of Swine and Roses (KMFDM remix)](https://www.youtube.com/watch?v=m7BN72wB5f4)
-- **Ministry** (ab Ende der 80er)  
-  *Gegründet 1981 von Al Jourgensen, dem einzigen durchgängigen
-  Bandmitglied. Beginn als Synthiepopband, Stilwechsel über
-  Electro/EBM und Electro-Industrial zu Industrial Metal im Laufe der
-  80er und 90er Jahre, sehr viele Nebenprojekte und Kollaborationen mit
-  anderen Projekten*  
+- **Ministry** (ab Anfang der 1990er)  
+  *1981 von Al Jourgensen, dem einzigen durchgängigen Bandmitglied, gegründet.
+  Begann als Synthiepopband und durchlief in den 1980er und 1990er Jahre
+  mehrere Stilwechsel über Electro/EBM und Electro-Industrial zu Industrial Metal.
+  Sehr viele Nebenprojekte und Kollaborationen mit anderen Projekten*  
   → [Burning Inside](https://www.youtube.com/watch?v=epDFHOVbhWk),
   [Jesus Built My Hotrod](https://www.youtube.com/watch?v=GXCh9OhDiCI),
   [N.W.O.](https://www.youtube.com/watch?v=imqvLToWH7k),
@@ -210,7 +211,9 @@ gestoßen.
 
 > eingängige, tanzbare Track-Strukturen unter Verwendung von Effekten wie
 > Distortion und Delay sowie Sprachsamples aus Filmen, Radio- oder
-> Fernsehnachrichten
+> Fernsehnachrichten.
+> Wichtige Festivals mit diesem Schwerpunkt:
+> **Maschinenfest** (bis 2018) und **Forms of Hands**
 
 - **Converter** →
   [Error](https://www.youtube.com/watch?v=ujvKCby6CW4),
@@ -220,12 +223,13 @@ gestoßen.
   [Lost Highway 72](https://www.youtube.com/watch?v=pLGh7Ef2pck),
   [Dislocation 2 & 3](https://www.youtube.com/watch?v=4gwc9cyNd6Y),
   [Tentack One](https://www.youtube.com/watch?v=h-r6TOxxtSU)
-- **Sonar** →
-  [Head Down](https://www.youtube.com/watch?v=0SmeG514ywQ),
+- **Sonar**  
+  *Projekt von Dirk Ivens (u.a. **Dive**, siehe unten)*  
+  → [Head Down](https://www.youtube.com/watch?v=0SmeG514ywQ),
   [Cosmic Rays](https://www.youtube.com/watch?v=JTIzAv2tBVc),
   [Shotgun Radio](https://www.youtube.com/watch?v=MJWtMvl_-FA)
 - **Winterkälte** →
-  [Global Warming](https://www.youtube.com/watch?v=FEOVjXbSXOc),
+  [Global Warming](https://www.youtube.com/watch?v=gRCqrUKIfWA),
   [Tropical Timber Trade](https://www.youtube.com/watch?v=ggObjVux-t4),
   [Ban Depleted Uranium Weapons (Poison Dust)](https://www.youtube.com/watch?v=pRwnj7cIIaw)
 - **P•A•L** →
@@ -253,23 +257,23 @@ gestoßen.
 
 ### Electro-Industrial
 
-> Wurzeln im Post-Industrial, siehe z.B. Esplendor Geométrico
+> Wurzeln sowohl im Post-Industrial als auch im EBM/Electro
 
 - **Dive**  
-  *Soloprojekt von Dirk Ivens, der vorher bei **Absolute Body Control**
-  (Minimalelektronik) und **Klinik** (Electro/EBM) aktiv war.
-  Auch **Sonar** (siehe oben) ist eines seiner Projekte.*  
+  *Soloprojekt von Dirk Ivens, der auch bei **Absolute Body Control**
+  (Minimalelektronik) und **Klinik** (Electro/EBM) aktiv ist bzw. war.*  
   → [Mercy](https://www.youtube.com/watch?v=SDBwb6qDoMo),
   [Eye of the Past](https://www.youtube.com/watch?v=Vxm-lTvj4kM),
   [Snakedressed](https://www.youtube.com/watch?v=xA389-FmD2U),
   [Back to Nature](https://www.youtube.com/watch?v=v3A0zO5217k)
   (Original von **Fad Gadget**)
-- **Suicide Commando** (Frühphase) →
-  [Save Me](https://www.youtube.com/watch?v=Lq_r6dzuSDg),
+- **Suicide Commando**  
+  *Frühphase in diesem Bereich, später Stilwechsel Richtung Aggrotech*  
+  → [Save Me](https://www.youtube.com/watch?v=Lq_r6dzuSDg),
   [See You in Hell\!](https://www.youtube.com/watch?v=N4QR2L0xVwc)
 - **Stin Scatzor** →
   [Toxic](https://www.youtube.com/watch?v=hQiTmtku5z8),
-  [I Will Die](https://www.youtube.com/watch?v=6rWQYsbRndY)
+  [I Will Die](https://www.youtube.com/watch?v=2cD7Y4s0TpY)
 - **Pierrepoint** →
   [Nightmare Zone (Dreams Change mix)](https://www.youtube.com/watch?v=MCjJagrpNxA),
   [Castigate](https://www.youtube.com/watch?v=mczytHijz6g)
@@ -287,19 +291,16 @@ die Musik von u.a.:
   aus Filmen. Gegründet 1982, aktiv bis heute.*  
   → [Punk in Park Zoo’s](https://www.youtube.com/watch?v=rUQ_R8faRjg),
   [Far Too Frail](https://www.youtube.com/watch?v=W7F8WLk2iPo),
-  [Assimilate (r23 remix)](https://www.youtube.com/watch?v=qU2yaNQvmbI),
-  [illisiT](https://www.youtube.com/watch?v=3qNiXrSH0t4)
-- **Ministry** (Mitte der 80er)  
+  [Assimilate (R23 remix)](https://www.youtube.com/watch?v=qU2yaNQvmbI),
+  [illisiT](https://www.youtube.com/watch?v=-rP7GPl929M)
+- **Ministry** (Mitte der 1980er)  
   → [Isle of Man (Version II)](https://www.youtube.com/watch?v=sZXQCs3rZtU),
   [Over the Shoulder](https://www.youtube.com/watch?v=kVVFqBpgt20),
-  [You Know What You Are](https://www.youtube.com/watch?v=AGJEaEpi21E)
+  [You Know What You Are](https://www.youtube.com/watch?v=hoNRZLOzR2s)
 - **KMFDM**  
   *arbeiten viel mit Gitarrensamples*  
   → [Godlike](https://www.youtube.com/watch?v=yl4WXcl_LAQ),
-  [Light](https://www.youtube.com/watch?v=hVgBp5Yu7_w)  
-  Randbemerkung: teilweise erinnern mich neuere Lieder wie
-  [Maggots at the Party](https://www.youtube.com/watch?v=nck4FkKeJ0E) von
-  **Combichrist** wieder an diesen Stil.
+  [Light](https://www.youtube.com/watch?v=hVgBp5Yu7_w)
 - **Frontline Assembly** →
   [Ausgang zum Himmel](https://www.youtube.com/watch?v=ToRGBEIbmqY),
   [Insanity Lurks Nearby](https://www.youtube.com/watch?v=7ACL7Q7GxMY),
@@ -317,7 +318,7 @@ die Musik von u.a.:
 
 ### Japanoise
 
-> Extremere Noise-Variante aus Japan, die fast vollständig aus abstraktem
+> Extreme Noise-Variante aus Japan, die fast vollständig aus abstraktem
 > Lärm besteht.
 
 - **Masonna** →
@@ -331,29 +332,27 @@ die Musik von u.a.:
   [We Hate You: A Small Tribute to Throbbing Gristle](https://musicbrainz.org/release/d8ee67ba-b41b-42bb-aedb-0bad46a81453)
   enthalten)
 - **The Gerogerigegege**  
-  *Ich weiß, was der Name übersetzt heißt, aber schreibe es hier
-  nicht. Es gibt Videos auf Youtube, die ein Plattencover zeigen,
-  welches den Namen plastisch darstellt.*  
-  → [Rock ’n Roll](https://www.youtube.com/watch?v=q650H0pLcpY),
-  [ゲロゲリゲゲゲ (The Gerogerigegege)](https://www.youtube.com/watch?v=mZGNTx6SrrE),
+  *([Beschreibung im John Peel Wiki](https://peel.fandom.com/wiki/Gerogerigegege))*  
+  → [ゲロゲリゲゲゲ (The Gerogerigegege)](https://www.youtube.com/watch?v=mZGNTx6SrrE),
   [Five Cover Songs](https://www.youtube.com/watch?v=Jn9ETe1ojnc),
   [Instruments Disorder (170 Songs CD, 1994)](https://www.youtube.com/watch?v=zHiU7aF-f_Q)
 - **C.C.C.C.** →
   [Live-Auftritt im italienischen Fernsehen (1997)](https://www.youtube.com/watch?v=bs3GcoZ-ecs)
+- **Incapacitants** →
+  [The Movie](https://www.youtube.com/watch?v=ASa80SyUCso)
 
 ## Bands aus Düsseldorf
 
 - **100blumen**  
-  *Start als Einmannprojekt, inzwischen zu einem Quartett mit einem Bassisten,
-  einem Gitarristen und einem Schlagzeuger aus Fleisch und Blut angewachsen.
-  Aktueller Stil: Drum ’n’ Bass × Electro-Punk*  
+  *als Soloprojekt (Rhythm ’n’ Noise) gestartet,
+  aber inzwischen zu einem Quartett mit E-Gitarre, Bass und Schlagzeug herangewachsen.
+  Stilwandel zu Drum ’n’ Bass × Electropunk × Post-Hardcore*  
   → [blumen100](https://www.youtube.com/watch?v=0oExy0pt0DM),
   [live 2011 mit saal5](https://www.youtube.com/watch?v=-9Dq-eIsnUg),
   [Hinterland](https://www.youtube.com/watch?v=_sHu8BEreLI),
   [Modestadt Düsseldorf](https://www.youtube.com/watch?v=VlM7A4m47wc)
   (Original von den **Toten Hosen**),
-  [Keine Träume](https://www.youtube.com/watch?v=5G3vA7y_uto) (mit bekannten
-  Ansichten unserer Stadt),
+  [Keine Träume](https://www.youtube.com/watch?v=5G3vA7y_uto),
   [verschiedene Releases auf Bandcamp](https://100blumen.bandcamp.com/)
 - **Störfunk**  
   *Ebenfalls ein Einmannprojekt. Inzwischen nicht mehr unter diesem
@@ -365,8 +364,7 @@ die Musik von u.a.:
 - **Config.Sys**  
   *Ein Gründungsmitlied war einmal mein WG-Mitbewohner.
   Stil zwischen Electro-Industrial und Rhythm ’n’ Noise. Auf dem
-  letzten Maschinenfest (2018) habe ich den Auftritt leider
-  verpasst.*  
+  letzten Maschinenfest (2018) habe ich den Auftritt leider knapp verpasst.*  
   → [Transmission 1938](https://www.youtube.com/watch?v=1fBm33iFYsM),
   [Nerd](https://www.youtube.com/watch?v=8s2tiZiMOXg),
   [Ulysses](https://www.youtube.com/watch?v=EuR5LRHqNBs),
@@ -382,14 +380,14 @@ die Musik von u.a.:
 
 ## Verwendung von Industrial-Elementen
 
-Auch „genrefremde“ Bands verwenden manchmal in einzelnen Liedern
-elektronischen Lärm. Oft wurden diese Lieder auch in der
-Industrial-/Electroszene zu Clubhits.
+> Auch „genrefremde“ Bands verwenden manchmal in einzelnen Liedern
+> elektronischen Lärm. Oft werden diese Lieder auch in der
+> Industrial-/Electroszene zu Clubhits.
 
 - [Aphex Twin — Come to Daddy](https://www.youtube.com/watch?v=h-9UvrLyj3k)
-- [Daft Punk — Rollin’ & Scratchin’](https://www.youtube.com/watch?v=Gbb8kZw-xRg)
+- [Daft Punk — Rollin’ & Scratchin’](https://www.youtube.com/watch?v=q27KtfR1ESA)
 
-## Remixe
+## Mashups
 
-- [Sonar vs. Ex-Plain - Main Frame / Slow Injection vs. Check Out](https://www.youtube.com/watch?v=YYB5soFrdGY)
-  (mein Mixunfall aus dem Jahr 1998)
+- [Blaxxident (Sonar – Main Frame / Slow Injection vs. Ex-Plain – Check Out)](https://www.youtube.com/watch?v=YYB5soFrdGY)
+  (von mir verursachter Mixunfall aus dem Jahr 1998)
